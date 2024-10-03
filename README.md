@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geseda
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning frontend development
-- 💞️ I’m looking to collaborate with other developers to learn and share on our development journey 
+- 👀 I’m interested in data science and ML
+- 🌱 I’m currently learning data science and ML 
+- 💞️ I’m looking to collaborate with other developers to learn and share on our data science journey 
 - 📫 How to reach me @geseda
 
 <!---
